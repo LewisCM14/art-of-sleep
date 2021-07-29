@@ -166,6 +166,22 @@ footer a:hover {
     width: 50%;
 }
 
+.positions {
+    padding: 0 300px;
+}
+
+.back {
+    background-color: yellow;
+}
+
+.side {
+    background-color: blue;
+}
+
+.front {
+    background-color: green;
+}
+
 /*Media Queries*/
 
 /*header*/
@@ -248,14 +264,13 @@ footer a:hover {
     }
 }
 
-
 /*footer*/
+
 @media (max-width: 992px) {
     .social {
         width: 900px;
     }
 }
-
 
 @media (max-width: 768px) { /*iPad*/
     .social {
