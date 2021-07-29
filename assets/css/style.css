@@ -10,4 +10,12 @@
 
 body {
     background-color: white;
+    font-family: Comfortaa, sans-serif;
+    font-weight: 300;
+    color: #1e1926;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Varela+Round, sans-serif;
+    color: #1e1926;
 }
