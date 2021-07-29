@@ -175,6 +175,11 @@ footer a:hover {
     width: 100%;
 }
 
+.txt-padding {
+    padding: 25px;
+    text-align: center;
+}
+
 .back-img {
     width: 50%;
     height: 500px;
