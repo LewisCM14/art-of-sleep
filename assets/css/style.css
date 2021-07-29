@@ -163,6 +163,7 @@ footer a:hover {
     font-size: 150%;
     line-height: 50px;
     letter-spacing: 5px;
+    width: 50%;
 }
 
 /*Media Queries*/
@@ -283,5 +284,65 @@ footer a:hover {
 
     .copyright small {
         font-size: 5px;
+    }
+}
+
+/*index hero*/
+
+@media (max-width: 1200px) {
+    .cover-text {
+        left: 580px;
+        top: 620px;
+        font-size: 70%;
+        line-height: 20px;
+        letter-spacing: 2.5px;
+    }
+}
+
+@media (max-width: 992px) {
+    .cover-text {
+        left: 430px;
+        top: 650px;
+        font-size: 60%;
+        line-height: 15px;
+        letter-spacing: 2.5px;
+    }
+}
+
+@media (max-width: 768px) /*iPad*/ {
+    .cover-text {
+        letter-spacing: 0px;
+        line-height: 15px;
+        font-size: 60%;
+        left: 290px;
+    }
+}
+
+@media (max-width: 576px) {
+    .index-hero-img {
+        height: 400px;
+    }
+
+    .cover-text {
+        top: 480px;
+        left: 230px;
+        font-size: 50%;
+        line-height: 10px;
+    }
+}
+
+@media (max-width: 375px) /*iPhone x*/{
+    .index-hero {
+        padding: 20px;
+    }
+
+    .index-hero-img {
+        height: 300px;
+    }
+
+    .cover-text {
+        top: 340px;
+        left: 160px;
+        font-size: 40%;
     }
 }
