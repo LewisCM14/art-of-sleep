@@ -184,8 +184,11 @@ footer a:hover {
 .back-img {
     width: 50%;
     height: 500px;
-    background-color: orange;
     float: left;
+    background-image: url(../images/back-index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
 }
 
 .back-txt {
@@ -198,8 +201,11 @@ footer a:hover {
 .side-img {
     width: 50%;
     height: 500px;
-    background-color: yellow;
     float: right;
+    background-image: url(../images/side-index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
 }
 
 .side-txt {
@@ -212,15 +218,18 @@ footer a:hover {
 .front-img {
     width: 50%;
     height: 500px;
-    background-color: green;
-    float: right;
+    float: left;
+    background-image: url(../images/front-index.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
 }
 
 .front-txt {
     width: 50%;
     height: 500px;
     background-color: purple;
-    float: left;
+    float: right;
 }
 
 /*Media Queries*/
