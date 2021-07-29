@@ -211,3 +211,42 @@ footer {
         padding: 5px;
     }
 }
+
+
+/*footer*/
+
+@media (max-width: 768px) { /*iPad*/
+    .social {
+        width: 700px;
+    }
+
+    .copyright small {
+        font-size: xx-small;
+    }
+}
+
+@media (max-width: 576px) {
+    .social {
+        width: 500px;
+    }
+}
+
+@media (max-width: 375px) { /*iPhone X*/
+    .footer-container {
+        height: 50px;
+    }
+
+    .social {
+        width: 300px;
+        font-size: 100%;
+        height: 40px;
+    }
+
+    .copyright {
+        height: 10px;
+    }
+
+    .copyright small {
+        font-size: 5px;
+    }
+}
