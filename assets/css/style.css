@@ -171,14 +171,8 @@ footer a:hover {
     padding: 0 300px;
 }
 
-.positions-container {
-    width: 100%;
-    padding-bottom: 50px;
-}
-
 .positions {
     width: 100%;
-    
 }
 
 .back-img {
@@ -194,7 +188,6 @@ footer a:hover {
 .back-txt {
     width: 50%;
     height: 500px;
-    background-color: red;
     float: right;
 }
 
@@ -205,13 +198,12 @@ footer a:hover {
     background-image: url(../images/side-index.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
 }
 
 .side-txt {
     width: 50%;
     height: 500px;
-    background-color: blue;
     float: left;
 }
 
@@ -222,13 +214,12 @@ footer a:hover {
     background-image: url(../images/front-index.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: left;
 }
 
 .front-txt {
     width: 50%;
     height: 500px;
-    background-color: purple;
     float: right;
 }
 
