@@ -83,6 +83,53 @@ header a {
     color: inherit;
 }
 
+/*footer*/
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-padding {
+    padding: 5px;
+}
+
+.footer-container {
+    background-color: #9a89b4;
+    width: 100%;
+    height: 80px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.social {
+    width: 1500px;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 250%;
+    
+}
+
+.social a {
+    color: #FDf7FF;
+}
+
+.copyright {
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright small {
+    display: flex;
+    align-items: center;
+    color: #FDf7FF;
+}
+
 /*Media Queries*/
 
 /*header*/
