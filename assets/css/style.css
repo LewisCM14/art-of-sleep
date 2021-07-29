@@ -83,6 +83,10 @@ header a {
     color: inherit;
 }
 
+header a:hover {
+    color: #0000ff;
+}
+
 /*footer*/
 
 footer {
@@ -128,6 +132,10 @@ footer {
     display: flex;
     align-items: center;
     color: #FDf7FF;
+}
+
+footer a:hover {
+    color: #0000ff;
 }
 
 /*Media Queries*/
