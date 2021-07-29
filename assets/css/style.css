@@ -180,6 +180,20 @@ footer a:hover {
     text-align: center;
 }
 
+.txt-padding h4 {
+    color: #FDf7FF;
+    background-color: #9a89b4;
+    border-radius: 50px;
+    width: 150%;
+}
+
+.txt-padding a {
+    font-size: 200%;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: inherit;
+}
+
 .back-img {
     width: 50%;
     height: 500px;
