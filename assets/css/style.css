@@ -155,11 +155,14 @@ footer a:hover {
 }
 
 .cover-text {
-    padding: 20px;
-    background-color: white;
-    bottom: 400px;
-    right: 300px;
+    bottom: 300px;
+    right: 200px;
     position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 150%;
+    line-height: 50px;
+    letter-spacing: 5px;
 }
 
 /*Media Queries*/
