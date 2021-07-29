@@ -138,6 +138,30 @@ footer a:hover {
     color: #0000ff;
 }
 
+/*index page*/
+
+.index-hero {
+    padding: 50px;
+}
+
+.index-hero-img {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url(../images/index-hero.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.cover-text {
+    padding: 20px;
+    background-color: white;
+    bottom: 500px;
+    right: 400px;
+    position: absolute;
+}
+
 /*Media Queries*/
 
 /*header*/
