@@ -303,6 +303,18 @@ footer a:hover {
     height: 100%;
 }
 
+/*side page*/
+
+.sleep-info-side {
+    background-image: url(../images/side-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
 /*Media Queries*/
 
 /*header*/
