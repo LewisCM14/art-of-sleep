@@ -615,7 +615,7 @@ footer a:hover {
        flex-direction: column;
    }
 
-   .sleep-info-back {
+   .sleep-info-back, .sleep-info-front {
        width: 100%;
        height: 600px;
    }
@@ -652,3 +652,4 @@ footer a:hover {
         font-size: 80%;
     }
 }
+
