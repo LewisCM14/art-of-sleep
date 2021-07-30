@@ -13,6 +13,9 @@ body {
     font-family: Comfortaa, sans-serif;
     font-weight: 300;
     color: #1e1926;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -89,10 +92,10 @@ header a:hover {
 
 /*footer*/
 
-footer {
+footer { /*
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 100%;*/
     
 }
 
