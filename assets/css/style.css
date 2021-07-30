@@ -249,7 +249,7 @@ footer a:hover {
     float: right;
 }
 
-/*back page*/
+/*sleep style page's*/
 
 .sleep-info-padding {
     padding: 50px 150px;
@@ -260,18 +260,30 @@ footer a:hover {
     height: 1000px;
 }
 
-.sleep-info-img {
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-color: blue;
-}
-
 .sleep-info-txt {
     float: right;
     width: 50%;
     height: 100%;
     background-color: orange;
+}
+
+#back-img {
+    background-image: url(../images/back-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*back page*/
+
+.sleep-info-back {
+    background-image: url(../images/back-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    float: left;
+    width: 50%;
+    height: 100%;
 }
 
 /*Media Queries*/
