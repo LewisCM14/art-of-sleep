@@ -92,13 +92,6 @@ header a:hover {
 
 /*footer*/
 
-footer { /*
-    position: fixed;
-    bottom: 0;
-    width: 100%;*/
-    
-}
-
 .footer-padding {
     padding: 5px;
 }
