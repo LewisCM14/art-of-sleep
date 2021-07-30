@@ -198,6 +198,11 @@ footer a:hover {
     color: #0000ff;
 }
 
+.sleep-info {
+    padding-top: 20px;
+    font-size: 150%;
+}
+
 .back-img {
     width: 50%;
     height: 500px;
