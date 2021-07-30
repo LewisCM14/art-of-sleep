@@ -194,6 +194,10 @@ footer a:hover {
     color: inherit;
 }
 
+.txt-padding a:hover {
+    color: #0000ff;
+}
+
 .back-img {
     width: 50%;
     height: 500px;
