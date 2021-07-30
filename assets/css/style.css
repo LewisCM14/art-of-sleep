@@ -338,6 +338,13 @@ footer a:hover {
     padding-bottom: 20px;
 }
 
+.about-img {
+    background-image: url(../images/about-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 /*Media Queries*/
 
 /*header*/
