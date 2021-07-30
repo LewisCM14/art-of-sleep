@@ -39,7 +39,7 @@ header {
 }
 
 .header {
-    width: 1825px;
+    width: 1600px;
     height: 80px;
     display: flex;
     justify-content: space-between;
