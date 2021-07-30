@@ -569,3 +569,73 @@ footer a:hover {
         font-size: 60%;
     }
 }
+
+/*sleep style*/
+
+@media (max-width: 1200px) {
+    .content p {
+        font-size: 120%;
+    }
+}
+
+@media (max-width: 992px) {
+    .sleep-info-txt h2 {
+        padding: 25px;
+    }
+    .content p {
+        font-size: 100%;
+    }
+}
+
+@media (max-width: 768px) /*iPad*/ {
+    .sleep-info-padding {
+        padding: 25px 75px;
+    }
+    .content p {
+        font-size: 95%;
+    }
+}
+
+@media (max-width: 576px) {
+   .sleep-info-container {
+       display: flex;
+       flex-direction: column;
+   }
+
+   .sleep-info-back {
+       width: 100%;
+       height: 600px;
+   }
+
+   .sleep-info-txt {
+       width: 100%;
+   }
+
+    .sleep-info-padding {
+        padding: 15px 50px;
+    }
+
+    .sleep-info-txt h2 {
+        padding: 15px;
+        font-size: 100%;
+    }
+
+    .content p {
+        font-size: 100%;
+    }
+}
+
+@media (max-width: 375px) /*iPhone x*/ {
+    .sleep-info-padding {
+        padding: 5px 15px;
+    }
+
+    .sleep-info-txt h2 {
+        padding: 10px;
+        font-size: 100%;
+    }
+
+    .content p {
+        font-size: 80%;
+    }
+}
