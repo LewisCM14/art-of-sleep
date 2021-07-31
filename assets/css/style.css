@@ -709,3 +709,55 @@ footer a:hover {
     }
 }
 
+/*about*/
+
+@media (max-width: 1200px) {
+    .about {
+        font-size: 110%;
+        padding-bottom: 50px;
+    }
+
+    .about h2 {
+        padding-bottom: 5px;
+    }
+
+    .about p {
+        padding: 0 50px;
+    }
+}
+
+@media (max-width: 992px) {
+    .about {
+        font-size: 100%;
+    }
+}
+
+@media (max-width: 768px) /*iPad*/ {
+    .about {
+        font-size: 90%;
+    }
+
+    .about p {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 576px) {
+    .about {
+        padding-bottom: 100px;
+    }
+}
+
+@media (max-width: 375px) /*iPhone x*/ {
+    .about-padding {
+        padding: 25px;
+    }
+
+    .about-outer {
+        height: 500px;
+    }
+
+    .about {
+        padding-bottom: 20px;
+    }
+}
