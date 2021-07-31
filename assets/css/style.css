@@ -186,7 +186,6 @@ footer a:hover {
 .txt-padding h4 {
     color: #FDf7FF;
     font-size: 30px;
-    
 }
 
 .txt-padding a {
@@ -704,35 +703,19 @@ justify-content: center;
     }
 }
 
-
-
-/*
-
-@media (max-width: 375px) {
-    .index-hero {
-        padding: 20px;
-    }
-
-    .index-hero-img {
-        height: 300px;
-    }
-
-    .cover-text {
-        top: 340px;
-        left: 160px;
-        font-size: 40%;
-    }
-} */
-
 /*positions*/
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .positions-padding {
         padding: 0 150px;
     }
 
     .back-img, .back-txt, .side-img, .side-txt, .front-img, .front-txt {
         height: 250px;
+    }
+
+    .txt-padding h4 {
+        font-size: 20px;
     }
 
     .sleep-info {
@@ -743,77 +726,60 @@ justify-content: center;
     .txt-padding {
         padding: 5px;
     }
-
-    .txt-padding a {
-        font-size: 120%;
-    }
 }
 
-@media (max-width: 992px) {
-    .positions-padding {
-        padding: 0 150px;
-    }
-
-    .back-img, .back-txt, .side-img, .side-txt, .front-img, .front-txt {
-        height: 200px;
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
+    .txt-padding h4 {
+        font-size: 15px;
     }
 
     .sleep-info {
-        padding-top: 0px;
-        font-size: 80%;
-    }
-
-    .txt-padding a {
-        font-size: 90%;
+        font-size: 96%;
     }
 }
 
-@media (max-width: 768px) /*iPad*/ {
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
     .positions-padding {
         padding: 0 100px;
     }
 
-    .sleep-info {
-        font-size: 80%;
+    .txt-padding h4 {
+        font-size: 15px;
     }
 
-    .txt-padding a {
-        font-size: 80%;
+    .sleep-info {
+        font-size: 85%;
     }
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
     .positions-padding {
-        padding: 0 0px;
+        padding: 0 50px;
+    }
+
+    .txt-padding h4 {
+        font-size: 10px;
     }
 
     .sleep-info {
-        font-size: 65%;
-    }
-
-    .txt-padding a {
-        font-size: 80%;
+        font-size: 70%;
     }
 }
 
-@media (max-width: 375px) /*iPhone x*/ {
+@media screen and (max-width: 320px) { /*Mobile Devices*/
     .back-img, .back-txt, .side-img, .side-txt, .front-img, .front-txt {
-        height: 200px;
+        height: 250px;
     }
     .positions-padding {
-        padding: 0 25px;
+        padding: 0 15px;
+    }
+
+    .txt-padding h4 {
+        font-size: 10px;
     }
 
     .sleep-info {
         font-size: 65%;
-    }
-
-    .txt-padding {
-        padding: 0;
-    }
-
-    .txt-padding a {
-        font-size: 60%;
     }
 }
 
