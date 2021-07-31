@@ -179,23 +179,22 @@ footer a:hover {
 
 .txt-padding h4 {
     color: #FDf7FF;
+    background-color: #9a89b4;
+    width: 30%;
+    border-radius: 50px;
+    font-size: 30px;
+    
 }
 
 .txt-padding a {
-    font-size: 200%;
     text-transform: uppercase;
     text-decoration: none;
     color: inherit;
+    display: flex;
+    justify-content: center;
 }
 
-.txt-padding button {
-    color: #FDf7FF;
-    background-color: #9a89b4;
-    width: 25%;
-    border-radius: 50px;
-}
-
-.txt-padding a:hover {
+.txt-padding h4:hover {
     color: #0000ff;
 }
 
