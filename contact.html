@@ -51,8 +51,29 @@
         <div class="contact-padding">
             <div class="contact-outer">
                 <div class="contact-inner">
-                    <from>
+                    <from method="POST" action="https://formdump.codeinstitute.net/">
+                        <h2>Request a consultation on a mattress</h2>
+                        <p>At Martin Mattress Co. we are dedicated to helping you get a great night's sleep</p>
+                        <br>
+                        <p>Request a consultation on the products we offer with one of our sleep experts below</p>
+                        <div class="contact">
+                            <label for="fname">First Name:</label>
+                            <input id="fname" name="first_name" type="text" required class="input-field">
+            
+                            <label for="lname">Last Name:</label>
+                            <input id="lname" name="last_name" type="text" required class="input-field">
 
+                            <label for="phone">Mobile Number:</label>
+                            <input type="tel" id="phone" name="phone" pattern="[0-9]{11}}" required class="input-field">
+
+                            <label for="email">Email Address:</label>
+                            <input type="email" name="email_address" required class="input-field">
+
+                            <lable for="message">Message</lable>
+                            <textarea name="message" rows="10" cols="30" placeholder="Best method and time of contact"></textarea>
+                
+                            <input type="submit" value="Submit" class="submit">
+                        </div>
                     </from>
                 </div>
             </div>
