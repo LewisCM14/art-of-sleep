@@ -590,6 +590,12 @@ justify-content: center;
 
 /*footer*/
 
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
+    .social {
+        width: 900px;
+    }
+}
+
 @media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .social {
         width: 650px;
