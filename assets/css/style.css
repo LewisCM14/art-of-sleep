@@ -160,7 +160,7 @@ footer a:hover {
     text-transform: uppercase;
     text-align: center;
     font-size: 1.5rem;
-    line-height: 50px;
+    line-height: 2.5rem;
     letter-spacing: 5px;
 }
 
@@ -641,49 +641,74 @@ justify-content: center;
 
 /*index hero*/
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .cover-text {
-        left: 580px;
-        top: 620px;
-        font-size: 70%;
-        line-height: 20px;
+        left: 35rem;
+        top: 37rem;
+        font-size: 1rem;
+        line-height: 2.5rem;
         letter-spacing: 2.5px;
     }
 }
 
-@media (max-width: 992px) {
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .cover-text {
-        left: 430px;
-        top: 650px;
-        font-size: 60%;
-        line-height: 15px;
-        letter-spacing: 2.5px;
+        font-size: 0.9rem;
+        line-height: 1.5rem;
+        left: 28rem;
+        top: 41rem;
     }
 }
 
-@media (max-width: 768px) /*iPad*/ {
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
     .cover-text {
-        letter-spacing: 0px;
-        line-height: 15px;
-        font-size: 60%;
-        left: 290px;
+        font-size: 0.7rem;
+        line-height: 1rem;
+        left: 18rem;
     }
 }
 
-@media (max-width: 576px) {
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
+    .index-hero {
+        padding: 25px;
+    }
+
     .index-hero-img {
         height: 400px;
     }
 
     .cover-text {
-        top: 480px;
-        left: 230px;
-        font-size: 50%;
-        line-height: 10px;
+        letter-spacing: 1.5px;
+        font-size: 0.4rem;
+        line-height: 1rem;
+        left: 12rem;
+        top: 29rem;
     }
 }
 
-@media (max-width: 375px) /*iPhone x*/{
+@media screen and (max-width: 320px) { /*Mobile Devices*/
+    .index-hero-img {
+        height: 300px;
+    }
+
+    .index-hero {
+        padding: 15px;
+    }
+
+    .cover-text {
+        letter-spacing: 1.5px;
+        line-height: 0.7rem;
+        font-size: 0.5rem;
+        left: 7rem;
+        top: 20rem;
+    }
+}
+
+
+
+/*
+
+@media (max-width: 375px) {
     .index-hero {
         padding: 20px;
     }
@@ -697,7 +722,7 @@ justify-content: center;
         left: 160px;
         font-size: 40%;
     }
-}
+} */
 
 /*positions*/
 
