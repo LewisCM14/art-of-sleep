@@ -153,15 +153,20 @@ footer a:hover {
     box-shadow: 0px 0px 2.5px 2.5px #000000;
 }
 
-.cover-text {
-    left: 45rem;
-    top: 35rem;
+.cover-text-outer {
+    width: 1000px;
+    height: 150px;
     position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.cover-text-inner {
+    font-size: 25px;
     text-transform: uppercase;
-    text-align: center;
-    font-size: 1.5rem;
-    line-height: 2.5rem;
     letter-spacing: 5px;
+    line-height: 50px;
+    text-align: center;
 }
 
 .positions-padding {
@@ -642,68 +647,7 @@ footer a:hover {
 
 /*index hero*/
 
-@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
-    .cover-text {
-        left: 35rem;
-        top: 37rem;
-        font-size: 1rem;
-        line-height: 2.5rem;
-        letter-spacing: 2.5px;
-    }
-}
 
-@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
-    .cover-text {
-        font-size: 0.9rem;
-        line-height: 1.5rem;
-        left: 28rem;
-        top: 41rem;
-    }
-}
-
-@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
-    .cover-text {
-        font-size: 0.7rem;
-        line-height: 1rem;
-        left: 18rem;
-    }
-}
-
-@media screen and (max-width: 481px) { /*iPads/Tablets*/
-    .index-hero {
-        padding: 25px;
-    }
-
-    .index-hero-img {
-        height: 400px;
-    }
-
-    .cover-text {
-        letter-spacing: 1.5px;
-        font-size: 0.4rem;
-        line-height: 1rem;
-        left: 12rem;
-        top: 29rem;
-    }
-}
-
-@media screen and (max-width: 320px) { /*Mobile Devices*/
-    .index-hero-img {
-        height: 300px;
-    }
-
-    .index-hero {
-        padding: 15px;
-    }
-
-    .cover-text {
-        letter-spacing: 1.5px;
-        line-height: 0.7rem;
-        font-size: 0.5rem;
-        left: 7rem;
-        top: 20rem;
-    }
-}
 
 /*positions*/
 
