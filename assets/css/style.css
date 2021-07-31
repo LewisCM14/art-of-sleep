@@ -590,36 +590,37 @@ justify-content: center;
 
 /*footer*/
 
-@media (max-width: 992px) {
-    .social {
-        width: 850px;
-    }
-}
-
-@media (max-width: 768px) { /*iPad*/
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .social {
         width: 650px;
     }
+}
 
-    .copyright small {
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
+    .social {
+        width: 500px;
+        font-size: 200%;
+    }
+}
+
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
+    .social {
+        width: 350px;
+    }
+
+    .copyright {
         font-size: xx-small;
     }
 }
 
-@media (max-width: 576px) {
-    .social {
-        width: 400px;
-    }
-}
-
-@media (max-width: 375px) { /*iPhone X*/
+@media screen and (max-width: 320px) { /*Mobile Devices*/
     .footer-container {
         height: 50px;
     }
 
     .social {
-        width: 300px;
-        font-size: 100%;
+        width: 250px;
+        font-size: 150%;
         height: 40px;
     }
 
