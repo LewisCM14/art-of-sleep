@@ -399,13 +399,14 @@ footer a:hover {
 
 .contact-padding {
  padding: 50px 400px;
+ display: flex;
+justify-content: center;
 }
 
 .contact-outer {
     height: 800px;
     width: 100%;
     border: solid 5px black;
-   
     padding: 25px;
 }
 
@@ -423,7 +424,7 @@ footer a:hover {
 
 .factory {
     width: 50%;
-    height: 250px;
+    height: 100%;
     float: left;
     border-bottom: solid 2.5px black;
     background-image: url(../images/contact-img.jpeg);
@@ -434,7 +435,7 @@ footer a:hover {
 
 .contact-details {
     width: 50%;
-    height: 250px;
+    height: 100%;
     float: right;
     border-bottom: solid 2.5px black;
 }
@@ -947,5 +948,53 @@ footer a:hover {
 
     .newsletter-inner .submit {
         font-size: xx-small;
+    }
+}
+
+/*contact page*/
+
+@media (max-width: 1200px) {
+    .contact-padding {
+        padding: 50px 200px;
+       }
+}
+
+@media (max-width: 992px) {
+    .contact-padding {
+        padding: 50px 150px;
+       }
+}
+
+@media (max-width: 768px) /*iPad*/ {
+    .contact-padding {
+        padding: 50px 100px;
+       }
+}
+
+@media (max-width: 576px) {
+    .contact-padding {
+        padding: 50px 50px;
+       }
+
+    .contact-outer {
+        font-size: 90%;
+    }
+
+    .contact-form {
+        padding: 0 50px;
+    }
+}
+
+@media (max-width: 375px) /*iPhone x*/ {
+    .contact-padding {
+        padding: 25px 25px;
+        }
+    
+    .contact-outer {
+        font-size: 70%;
+    }
+    
+    .contact-form {
+        padding: 0 50px;
     }
 }
