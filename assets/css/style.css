@@ -395,19 +395,6 @@ footer a:hover {
     text-align: center;
 }
 
-.input-field {
-    border: 1px solid #1e1926;
-    padding: 1px;
-}
-
-.newsletter-inner .submit {
-    text-transform: uppercase; 
-}
-
-.newsletter-inner .submit:hover {
-    color: #0000ff;
-} 
-
 /*contact*/
 
 .contact-padding {
@@ -454,6 +441,21 @@ footer a:hover {
     text-decoration: underline;
     padding: 50px 0;
 }
+
+/*styling for forms*/
+
+.input-field {
+    border: 1px solid #1e1926;
+    padding: 1px;
+}
+
+.submit {
+    text-transform: uppercase; 
+}
+
+.submit:hover {
+    color: #0000ff;
+} 
 
 /*Media Queries*/
 
