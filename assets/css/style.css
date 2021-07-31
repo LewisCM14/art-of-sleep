@@ -366,17 +366,20 @@ footer a:hover {
 }
 
 .newsletter-outer {
-    border: solid 2px black;
-}
-
-#top-bar {
     width: 100%;
-    height: 5px;
-    background-color: black;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    
 }
 
 .newsletter-inner {
-    padding: 25px 40px;
+    border: solid 2px black;
+    border-top: solid 5px black;
+}
+
+.newsletter-inner form {
+    padding: 20px;
 }
 
 .newsletter-inner h2 {
@@ -385,7 +388,7 @@ footer a:hover {
 }
 
 .newsletter-inner p {
-    font-size: 97%;
+    font-size: 100%;
 }
 
 .email {
@@ -397,11 +400,11 @@ footer a:hover {
     padding: 2px;
 }
 
-.submit {
+.newsletter-inner .submit {
     text-transform: uppercase; 
 }
 
-.submit:hover {
+.newsletter-inner .submit:hover {
     color: #0000ff;
 } 
 
@@ -805,5 +808,62 @@ footer a:hover {
 
     .about {
         padding-bottom: 20px;
+    }
+}
+
+/*newsletter form*/
+
+@media (max-width: 1200px) {
+    .newsletter-padding {
+        padding: 0 300px 50px;
+    }
+}
+
+@media (max-width: 992px) {
+    .newsletter-padding {
+        padding: 0 200px 50px;
+    }
+}
+
+@media (max-width: 768px) /*iPad*/ {
+    .newsletter-padding {
+        padding: 0 100px 50px;
+    }
+}
+
+@media (max-width: 576px) {
+    .newsletter-padding {
+        padding: 0 50px 50px;
+    }
+
+    .newsletter-inner {
+        font-size: 80%;
+    }
+}
+
+@media (max-width: 375px) /*iPhone x*/ {
+    .newsletter-padding {
+        padding: 0 25px 25px;
+    }
+
+    .newsletter-inner form {
+        padding: 10px;
+    }
+
+    .newsletter-inner {
+        font-size: 60%;
+    }
+
+    .email {
+        text-align: left;
+    }
+    
+    .input-field {
+        border: 0.5px solid #1e1926;
+        padding: 0.5px;
+    }
+
+    .newsletter-inner .submit {
+        font-size: xx-small;
     }
 }
