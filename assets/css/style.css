@@ -647,6 +647,82 @@ footer a:hover {
 
 /*index hero*/
 
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
+    .cover-text-outer {
+        width: 700px;
+        height: 100px;
+    }
+    
+    .cover-text-inner {
+        font-size: 20px;
+        letter-spacing: 2.5px;
+        line-height: 25px;
+    }
+}
+
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
+    .cover-text-outer {
+        width: 600px;
+        height: 80px;
+    }
+
+    .cover-text-inner {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
+    .cover-text-outer {
+        width: 450px;
+        height: 70px;
+    }
+
+    .cover-text-inner {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
+    .index-hero {
+        padding: 25px;
+    }
+
+    .index-hero-img {
+        height: 450px;
+    }
+    .cover-text-outer {
+        width: 300px;
+        height: 50px;
+    }
+
+    .cover-text-inner {
+        font-size: 9px;
+        letter-spacing: 1px;
+        line-height: 15px;
+    }
+}
+
+@media screen and (max-width: 320px) { /*Mobile Devices*/
+    .index-hero {
+        padding: 10px;
+    }
+
+    .index-hero-img {
+        height: 300px;
+    }
+    .cover-text-outer {
+        width: 210px;
+        height: 35px;
+    }
+
+    .cover-text-inner {
+        font-size: 7px;
+        letter-spacing: 0px;
+        line-height: 10px;
+    }
+}
+
+
 
 
 /*positions*/
