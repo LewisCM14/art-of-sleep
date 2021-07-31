@@ -785,60 +785,68 @@ justify-content: center;
 
 /*sleep style*/
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .content p {
         font-size: 120%;
     }
 }
 
-@media (max-width: 992px) {
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
+    .sleep-info-padding {
+        padding: 25px 100px;
+    }
     .sleep-info-txt h2 {
         padding: 25px;
     }
+
     .content p {
-        font-size: 100%;
+        font-size: 115%;
     }
 }
 
-@media (max-width: 768px) /*iPad*/ {
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
     .sleep-info-padding {
         padding: 25px 75px;
     }
     .content p {
-        font-size: 95%;
+        font-size: 94%;
     }
 }
 
-@media (max-width: 576px) {
-   .sleep-info-container {
-       display: flex;
-       flex-direction: column;
-   }
-
-   .sleep-info-back, .sleep-info-front, .sleep-info-side {
-       width: 100%;
-       height: 600px;
-   }
-
-   .sleep-info-txt {
-       width: 100%;
-   }
-
-    .sleep-info-padding {
-        padding: 15px 50px;
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
+    .sleep-info-container {
+        display: flex;
+        flex-direction: column;
     }
-
-    .sleep-info-txt h2 {
-        padding: 15px;
-        font-size: 100%;
+ 
+    .sleep-info-back, .sleep-info-front, .sleep-info-side {
+        width: 100%;
+        height: 600px;
     }
-
-    .content p {
-        font-size: 100%;
+ 
+    .sleep-info-txt {
+        width: 100%;
     }
+ 
+     .sleep-info-padding {
+         padding: 15px 50px;
+     }
+ 
+     .sleep-info-txt h2 {
+         padding: 5px;
+         font-size: 100%;
+     }
+
+     .content {
+         padding-bottom: 5px;
+     }
+ 
+     .content p {
+         font-size: 100%;
+     }
 }
 
-@media (max-width: 375px) /*iPhone x*/ {
+@media screen and (max-width: 320px) { /*Mobile Devices*/
     .sleep-info-padding {
         padding: 5px 15px;
     }
