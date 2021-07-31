@@ -39,7 +39,7 @@ header {
 }
 
 .header {
-    width: 1500px;
+    width: 90%;
     height: 80px;
     display: flex;
     justify-content: space-between;
@@ -150,7 +150,6 @@ footer a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    border: solid 2.5px black;
     box-shadow: 0px 0px 2.5px 2.5px #000000;
 }
 
@@ -190,6 +189,7 @@ footer a:hover {
 }
 
 .txt-padding button {
+    color: #FDf7FF;
     background-color: #9a89b4;
     width: 25%;
     border-radius: 50px;
