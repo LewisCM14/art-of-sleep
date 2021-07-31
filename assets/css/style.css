@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #1e1926;
 }
 
-/*header*/
+/*header style*/
 
 header {
     padding: 5px;
@@ -90,7 +90,7 @@ header a:hover {
     color: #0000ff;
 }
 
-/*footer*/
+/*footer style*/
 
 .footer-padding {
     padding: 5px;
