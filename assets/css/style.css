@@ -253,7 +253,7 @@ footer a:hover {
     float: right;
 }
 
-/*sleep style*/
+    /*sleep style*/
 
 .sleep-info-padding {
     padding: 50px 150px;
@@ -322,6 +322,8 @@ footer a:hover {
 
 /*about page*/
 
+    /*about section*/
+
 .about-padding {
     padding: 50px;
 }
@@ -364,7 +366,7 @@ footer a:hover {
     padding: 0 100px;
 }
 
-/*newsletter*/
+    /*newsletter*/
 
 .newsletter-padding {
     padding: 0 550px 50px;
@@ -863,7 +865,7 @@ justify-content: center;
 
 /*about*/
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .about {
         font-size: 110%;
         padding-bottom: 50px;
@@ -878,15 +880,13 @@ justify-content: center;
     }
 }
 
-@media (max-width: 992px) {
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .about {
-        font-size: 100%;
+        font-size: 110%;
     }
-}
 
-@media (max-width: 768px) /*iPad*/ {
-    .about {
-        font-size: 90%;
+    .about h2 {
+        padding-bottom: 5px;
     }
 
     .about p {
@@ -894,13 +894,23 @@ justify-content: center;
     }
 }
 
-@media (max-width: 576px) {
-    .about {
-        padding-bottom: 100px;
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
+    .about h2 {
+        padding-bottom: 0px;
+    }
+
+    .about p {
+        padding-top: 30px;
     }
 }
 
-@media (max-width: 375px) /*iPhone x*/ {
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
+    .about p {
+        padding-top: 15px;
+    }
+}
+
+@media screen and (max-width: 320px) { /*Mobile Devices*/
     .about-padding {
         padding: 25px;
     }
@@ -911,6 +921,10 @@ justify-content: center;
 
     .about {
         padding-bottom: 20px;
+    }
+
+    .about {
+        font-size: 75%;
     }
 }
 
