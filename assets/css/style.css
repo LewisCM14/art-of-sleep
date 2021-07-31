@@ -405,7 +405,7 @@ footer a:hover {
     height: 800px;
     width: 100%;
     border: solid 5px black;
-    background-color: #9a89b4;
+   
     padding: 25px;
 }
 
@@ -416,18 +416,24 @@ footer a:hover {
     background-color: #fdf7ff;
 }
 
-.contact {
+.contact-us {
+    width: 100%;
+    height: 250px;
+    background-color: black;
+}
+
+.contact-form {
     padding: 0 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.contact label {
+.contact-form label {
     padding: 5px 0;
 }
 
-.contact textarea {
+.contact-form textarea {
     border: solid 1px black;
 }
 
