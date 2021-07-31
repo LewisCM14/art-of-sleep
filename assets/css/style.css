@@ -405,9 +405,9 @@ footer a:hover {
 /*contact*/
 
 .contact-padding {
- padding: 50px 400px;
- display: flex;
-justify-content: center;
+    padding: 50px 400px;
+    display: flex;
+    justify-content: center;
 }
 
 .contact-outer {
@@ -483,7 +483,7 @@ justify-content: center;
     padding: 50px 0;
 }
 
-/*styling for forms*/
+    /*styling for both forms*/
 
 .input-field {
     border: 1px solid #1e1926;
@@ -992,48 +992,65 @@ justify-content: center;
 
 /*contact page*/
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .contact-padding {
         padding: 50px 200px;
-       }
+    }
 }
 
-@media (max-width: 992px) {
+@media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .contact-padding {
         padding: 50px 150px;
-       }
+    }
 }
 
-@media (max-width: 768px) /*iPad*/ {
+@media screen and (max-width: 769px) { /*Small Screens/Laptops*/
     .contact-padding {
         padding: 50px 100px;
-       }
-}
-
-@media (max-width: 576px) {
-    .contact-padding {
-        padding: 50px 50px;
-       }
-
-    .contact-outer {
-        font-size: 90%;
     }
 
-    .contact-form {
-        padding: 0 50px;
+    .contact-heading h2 {
+        padding: 25px 0;
     }
 }
 
-@media (max-width: 375px) /*iPhone x*/ {
+@media screen and (max-width: 481px) { /*iPads/Tablets*/
     .contact-padding {
-        padding: 25px 25px;
-        }
-    
+        padding: 25px;
+       }
+
     .contact-outer {
         font-size: 70%;
     }
-    
+
     .contact-form {
         padding: 0 50px;
+    }
+}
+
+@media screen and (max-width: 320px) { /*Mobile Devices*/
+    .contact-padding {
+        padding: 10px;
+        }
+    
+    .contact-us {
+        height: 160px;
+        font-size: 75%;
+    }
+
+    .contact-details h3 {
+        text-align: center;
+    }
+
+    .contact-details p {
+        text-align: center;
+    }
+    
+    .contact-form {
+        padding: 0 5px;
+    }
+
+    .contact-outer {
+        height: 650px;
     }
 }
