@@ -424,9 +424,12 @@ footer a:hover {
 .factory {
     width: 50%;
     height: 250px;
-    background-color: blue;
     float: left;
     border-bottom: solid 2.5px black;
+    background-image: url(../images/contact-img.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
 }
 
 .contact-details {
