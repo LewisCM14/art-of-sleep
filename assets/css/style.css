@@ -359,6 +359,26 @@ footer a:hover {
     padding: 0 100px;
 }
 
+/*newsletter*/
+
+.newsletter-padding {
+    padding: 0 550px 50px;
+}
+
+.newsletter-outer {
+    border: solid 2px black;
+}
+
+#top-bar {
+    width: 100%;
+    height: 5px;
+    background-color: black;
+}
+
+.newsletter-inner {
+    padding: 25px 40px;
+}
+
 /*Media Queries*/
 
 /*header*/
