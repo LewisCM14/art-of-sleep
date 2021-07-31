@@ -154,15 +154,15 @@ footer a:hover {
 }
 
 .cover-text-outer {
-    width: 1000px;
-    height: 150px;
+    width: 875px;
+    height: 100px;
     position: absolute;
     bottom: 0;
     right: 0;
 }
 
 .cover-text-inner {
-    font-size: 25px;
+    font-size: 150%;
     text-transform: uppercase;
     letter-spacing: 5px;
     line-height: 50px;
@@ -649,12 +649,12 @@ footer a:hover {
 
 @media screen and (max-width: 1201px) { /*Extra Large Screens/TV*/
     .cover-text-outer {
-        width: 700px;
-        height: 100px;
+        width: 525px;
+        height: 60px;
     }
     
     .cover-text-inner {
-        font-size: 20px;
+        font-size: 90%;
         letter-spacing: 2.5px;
         line-height: 25px;
     }
@@ -662,23 +662,24 @@ footer a:hover {
 
 @media screen and (max-width: 1025px) { /*Desktop/Large Screens*/
     .cover-text-outer {
-        width: 600px;
-        height: 80px;
+        width: 510px;
+        height: 60px;
     }
 
     .cover-text-inner {
-        font-size: 15px;
+        font-size: 90%;
     }
 }
 
 @media screen and (max-width: 769px) { /*Small Screens/Laptops*/
     .cover-text-outer {
-        width: 450px;
-        height: 70px;
+        width: 430px;
+        height: 50px;
     }
 
     .cover-text-inner {
-        font-size: 12px;
+        font-size: 75%;
+        line-height: 20px;
     }
 }
 
@@ -691,12 +692,12 @@ footer a:hover {
         height: 450px;
     }
     .cover-text-outer {
-        width: 300px;
-        height: 50px;
+        width: 290px;
+        height: 35px;
     }
 
     .cover-text-inner {
-        font-size: 9px;
+        font-size: 55%;
         letter-spacing: 1px;
         line-height: 15px;
     }
@@ -711,12 +712,12 @@ footer a:hover {
         height: 300px;
     }
     .cover-text-outer {
-        width: 210px;
-        height: 35px;
+        width: 200px;
+        height: 25px;
     }
 
     .cover-text-inner {
-        font-size: 7px;
+        font-size: 40%;
         letter-spacing: 0px;
         line-height: 10px;
     }
