@@ -379,6 +379,32 @@ footer a:hover {
     padding: 25px 40px;
 }
 
+.newsletter-inner h2 {
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.newsletter-inner p {
+    font-size: 97%;
+}
+
+.email {
+    text-align: center;
+}
+
+.input-field {
+    border: 2px solid #1e1926;
+    padding: 2px;
+}
+
+.submit {
+    text-transform: uppercase; 
+}
+
+.submit:hover {
+    color: #0000ff;
+} 
+
 /*Media Queries*/
 
 /*header*/
