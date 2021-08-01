@@ -55,9 +55,20 @@ The secondary goal of the site, is to build a positive relationship between the 
         B. A personal connection between user and company cannot be developed easily, only evident goal is the sale of products.
 
         C. The colour pallets used has a wide range, making it hard to find familiarity across the pages for the user. 
-## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+    - **Features**
+
+        *The website should be responsive across all devices*
+
+        1. Interactive educational articles/hyperlinks   
+
+        2. Newsletter sign up.  
+
+        3. Form for requesting a consultation on products. 
+
+        4. About Us/Contact page. 
+
+        5. Customer testimonials. 
 
 ### Existing Features
 
