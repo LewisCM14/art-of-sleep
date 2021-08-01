@@ -216,6 +216,8 @@ The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
 
     * I used the guide on https://coder-coder.com/background-image-opacity/ to help me make use of the ::before psudo class used on the about page
 
+    * I used the breakpoints listed on https://www.freecodecamp.org/news/css-media-queries-breakpoints-media-types-standard-resolutions-and-more/ for me media queries
+
 - **Media**
 
     * All images are taken from: 
