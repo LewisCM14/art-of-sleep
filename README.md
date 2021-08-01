@@ -120,7 +120,9 @@ The secondary goal of the site, is to build a positive relationship between the 
 
   * The positions section is designed to educate the user on the different sleep positions, allowing them to identify with their style. 
 
-  * The heading, designed to look like a button, uses icons to encourage the user to interact with it and learn more about their sleep style.  
+  * The heading, designed to look like a button, uses icons to encourage the user to interact with it and learn more about their sleep style. 
+    
+    ![positions section image](/assets/images/positions.png)
 
  - **The Footer** 
 
