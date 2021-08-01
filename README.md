@@ -130,6 +130,8 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     - The footer is also responsive and styled the same across all pages for uniformity, also containing copyright information.
 
+    ![footer image](/assets/images/footer.png)
+
 - **Sleep Style Pages**
 
   - All sleep style pages are styled minimalistically so to highlight the key information surrounding the health implications of different sleeping positions. 
