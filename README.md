@@ -4,6 +4,37 @@ The Art of Sleep is a static front-end site, designed to be a guide to the right
 
 The secondary goal of the site, is to build a positive relationship between the user and the mattress company, encouraging them to sign up for the newsletter and consult the ‘sleep-experts’ at Martin Mattress Co. On the products they offer. 
 
+## User Experience (UX)
+
+- **User Stories**
+
+    + **First Time Visitor Goals**
+    
+        A. A first-time visitor to the site should instantly see that the sites goal is primarily to educate the user on the best mattress firmness dependant on sleep position.   
+
+        B. The educational information should be clear and concise, encouraging the user to interact with the navigational options presented to them.  
+
+        C. The user should be encouraged, through a positive experience, to sign up to the company's newsletter. 
+
+    + **Returning Visitor Goals**
+
+        A. A returning visitor should be encouraged to request a consultation with a sleep expert on what product's the company offer.
+
+    + **Frequent Visitor Goals**
+
+        *Due to the nature of the product being sold, a frequent visitor would be defined as someone who previously brought a mattress that has now reached the end of its lifespan.* 
+        
+        A. To briefly re-educate the user on the best mattress dependant on their sleep position.
+
+        B. Encourage the user to request a call back from a sleep expert with the company they have now built a relationship with. 
+
+    - **Owners Story**
+
+        A. The primary goal of the owner is to educate their users on the importance of choosing the correct mattress based on how the user sleeps. 
+
+        B. Pursuit of the primary goal is intended to build a positive relationship between owner and client. 
+
+        C. The end goal of the owner is to have the user sign up for the newsletter and request a consultation. 
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
