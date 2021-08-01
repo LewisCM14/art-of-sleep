@@ -148,9 +148,13 @@ The secondary goal of the site, is to build a positive relationship between the 
 
 - **About Us Page**
 
-    - The about us page uses a predominantly white background image with slight opacity to bring the key information surrounding The Martin Mattress Company to the forefront. 
+    - The about us page uses a predominantly white background image with slight opacity to bring the key information surrounding The Martin Mattress Company to the forefront.
+
+        ![about us image](/assets/images/about.png)
 
     - The newsletter sign up section on the about us page is designed to be responsive and loosely mimic the appearance of a folded newspaper. 
+
+        ![newsletter image](/assets/images/newsletter.png)
 
 ## Features Left to Implement
 
