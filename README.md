@@ -1,10 +1,8 @@
-# Love Running
+# The Art of Sleep
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+The Art of Sleep is a static front-end site, designed to be a guide to the right mattress firmness based on how the user sleeps. Built on behalf of a fictitious mattress manufacturing company, its primary goal is to educate its users on: different sleeping positions, the health implications of how they sleep and measures that can be taken to improve their health. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+The secondary goal of the site, is to build a positive relationship between the user and the mattress company, encouraging them to sign up for the newsletter and consult the ‘sleep-experts’ at Martin Mattress Co. On the products they offer. 
 
 ## Features 
 
