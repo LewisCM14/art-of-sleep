@@ -149,7 +149,7 @@ The secondary goal of the site, is to build a positive relationship between the 
 
 - I tested my site on: Chrome, Firefox and Internet Explorer. It performed as intended on all three browsers. This testing was done on the pc I built the site on. 
 
-- I also tested the site on my own iPhone x. upon testing on this device the site did not perform as intended. The breakpoint I chose for mobile devices was 320x470, however an iPhone x is 375x812. I corrected this bug by defining a specific iPhone x Media Query. 
+- I also tested the site on my own iPhone x. upon testing on this device the site did not perform as intended. The breakpoint I chose for mobile devices was 320x470, however an iPhone x is 375x812. I corrected this bug by defining a specific iPhone x Media Query.
 
 - I also tested the site on my laptop, the only noticeable bug was the height of the textarea section for the form on the contact page took it outside of the designated container. I fixed this bug by reducing the rows/cols value on it.  
 ## Validator Testing 
@@ -159,20 +159,21 @@ The secondary goal of the site, is to build a positive relationship between the 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
 
-### Unfixed Bugs
+## Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+- The only major unfixed bug I was aware off upon final deployment was that, although redefining my mobile device breakpoint to 375, fixed the site not preforming as intended on an iPhone x on Chrome Developer Tools. When opening the site on my actual device, it still didn’t perform as intended. I was unable to fix this problem due to time constraints and lack of knowledge as to understanding the route cause. 
 
+- Although I used Chrome Developer Tools to ensure my site preformed as intended at my predetermined breakpoints, which I felt covered a wide spectrum, I noticed slight issues with display of the: Header, Footer and the landing page hero image/cover text. I would have liked to widen my range of breakpoints to help address this problem, however time constraints prevented me from doing so. 
+  
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
+
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
 
 
 ## Credits 
