@@ -114,6 +114,8 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     * The landing includes a photograph with text overlay to instantly inform the user of the sites purpose
 
+        ![index page hero image](/assets/images/landing-page.png)
+
 - **The Positions Section**
 
   * The positions section is designed to educate the user on the different sleep positions, allowing them to identify with their style. 
