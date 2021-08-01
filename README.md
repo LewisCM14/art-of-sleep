@@ -174,6 +174,34 @@ The secondary goal of the site, is to build a positive relationship between the 
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
+
+## Technologies Used
+
+- **Languages Used**
+
+    * HTML5
+    * CSS3
+
+- **Frameworks, Libraries & Programs Used**
+
+    1. Balsamiq. 
+            * Balsamiq was used to create the wireframes during the design process.
+
+    2. mycolour.space.
+            * Used to define my  colour pallet for the project based of my primary colour choice.
+
+    3. Google Fonts. 
+            * Used to import the Comfortaa and Varela+Round font into the style.css file which is used on all pages throughout the project.
+
+    4. Font Awesome.
+            * Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+    5. Git.
+            * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+     6. GitHub.
+            * GitHub is used to store the projects code after being pushed from Git.
+
 ## Credits 
 
 * A special thank you to my mentor Can Sucullu. 
