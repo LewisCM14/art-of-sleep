@@ -108,6 +108,8 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     * The header also allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
+        ![header bar image](/assets/images/header.png)
+
 -  **The Index Page Image**
 
     * The landing includes a photograph with text overlay to instantly inform the user of the sites purpose
