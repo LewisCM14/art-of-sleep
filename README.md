@@ -74,7 +74,7 @@ The secondary goal of the site, is to build a positive relationship between the 
 
 - **Colour Scheme**
 
-    *Research into colour theory surrounding sleep, showed that people with blue bedrooms enjoyed the most sleep in hours per night. Based on this and market research into competing bed stores, I chose a limited colour pallet developed with mycolour.space. Designated colours are as follows:* 
+    *Research into colour theory surrounding sleep, showed that people with blue bedrooms enjoyed the most sleep in hours per night. Based on this and market research into competing bed stores, I chose a limited colour pallet developed with https://mycolor.space/ Designated colours are as follows:* 
             
     1. #0000FF (Blue)
     2. #9A89B4 (Light Purple)
@@ -174,8 +174,6 @@ The secondary goal of the site, is to build a positive relationship between the 
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
-
-
 ## Credits 
 
 * A special thank you to my mentor Can Sucullu. 
