@@ -119,14 +119,13 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     - The footer section includes links to the relevant social media sites for Martin Mattress Co. The links will open to a new tab to allow easy navigation for the user.This is valuable as it encourages them to keep connected via social media.
 
-    - The footer is also repsnsive and the same across all pages for uniformity, also containing copyright information.
+    - The footer is also responsive and styled the same across all pages for uniformity, also containing copyright information.
 
-- __Gallery__
+- **Sleep Style Pages**
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - All sleep style pages are styled minimalistically so to highlight the key information surrounding the health implications of different sleeping positions. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+  - Responsive across various device sizes, it encourages the user to scroll by suggesting at information outside of the viewing size.
 
 - __The Sign Up Page__
 
