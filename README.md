@@ -127,19 +127,23 @@ The secondary goal of the site, is to build a positive relationship between the 
 
   - Responsive across various device sizes, it encourages the user to scroll by suggesting at information outside of the viewing size.
 
-- __The Sign Up Page__
+- **Contact Page**
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+    - The contact page is designed to look like a typical form type you would see on paper, using whitespace to keep it narrow. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+    - The page holds all the key contact information for the company and allows the user to request a consultation at their convivence. An image of the fictitious company headquarters is used to compliment this. 
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- **About Us Page**
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+    - The about us page uses a predominantly white background image with slight opacity to bring the key information surrounding The Martin Mattress Company to the forefront. 
 
-### Features Left to Implement
+    - The newsletter sign up section on the about us page is designed to be responsive and loosely mimic the appearance of a folded newspaper. 
 
-- Another feature idea
+## Features Left to Implement
+
+- Customer Testimonials 
+
+- Detailing of specific products Martin Mattress Co. offer.
 
 ## Testing 
 
