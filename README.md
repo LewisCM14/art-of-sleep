@@ -82,6 +82,8 @@ The secondary goal of the site, is to build a positive relationship between the 
     3. #FDF7FF  (Off-White)
     4. #1E1926  (Off-Black)
 
+        ![color scheme image](/assets/images/colors.png)
+
 - **Typography**
 
     *I chose **Comfortaa** with a weight of 300 as the font for the main bodies of text and **Varela Round** for headings and any text which required additional impact. Both these fonts are ‘rounded’ and I felt this was emotive of the websites goal and products being sold.*
@@ -202,7 +204,7 @@ The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
 
      6. GitHub.
             * GitHub is used to store the projects code after being pushed from Git.
-            
+
     7. Am i Responsive
             * Used to create hero image for readme.
 
