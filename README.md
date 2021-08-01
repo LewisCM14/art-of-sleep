@@ -144,7 +144,9 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     - The contact page is designed to look like a typical form type you would see on paper, using whitespace to keep it narrow. 
 
-    - The page holds all the key contact information for the company and allows the user to request a consultation at their convivence. An image of the fictitious company headquarters is used to compliment this. 
+    - The page holds all the key contact information for the company and allows the user to request a consultation at their convivence. An image of the fictitious company headquarters is used to compliment this.
+
+        ![contact page form image](/assets/images/contact.png)
 
 - **About Us Page**
 
