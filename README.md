@@ -70,6 +70,33 @@ The secondary goal of the site, is to build a positive relationship between the 
 
         5. Customer testimonials. 
 
+- **Design**
+
+    + **Colour Scheme**
+
+        *Research into colour theory surrounding sleep, showed that people with blue bedrooms enjoyed the most sleep in hours per night. Based on this and market research into competing bed stores, I chose a limited colour pallet developed with mycolour.space. Designated colours are as follows:* 
+            
+            1. #0000FF (Blue)
+            2. #9A89B4 (Light Purple)
+            3. #FDF7FF  (Off-White)
+            4. #1E1926  (Off-Black)
+
+    + **Typography**
+
+        *I chose **Comfortaa** with a weight of 300 as the font for the main bodies of text and **Varela Round** for headings and any text which required additional impact. Both these fonts are ‘rounded’ and I felt this was emotive of the websites goal and products being sold.*
+
+    + **Imagery**
+
+        * All imagery for the website is based off the pre-determined colour pallet, in order to try avoid the negative impact I felt the large colour pallet's had on the competing websites.  
+
+        * It is strictly limited to images of inside a home, with an attempt to incorporate as many interior design styles as possible in order to appeal to a large target audience. 
+
+        * No people or animals are to be displayed in the imagery in order for the user to be able to imagine themselves within the depicted scene.
+
+    + **Layout**
+
+        * I decided on a multi-page website because I felt like each section deserved it's own dedicated page.
+
 ### Existing Features
 
 - __Navigation Bar__
