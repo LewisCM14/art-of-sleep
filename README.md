@@ -35,6 +35,26 @@ The secondary goal of the site, is to build a positive relationship between the 
         B. Pursuit of the primary goal is intended to build a positive relationship between owner and client. 
 
         C. The end goal of the owner is to have the user sign up for the newsletter and request a consultation. 
+
+- **Market Research**
+
+    *Research into competing mattress sellers within the UK, showed that only two are designated bed stores, the remaining three being superstores. Focusing on these two more direct competitors the following pros and cons of their websites should be considered moving forward with the project.*
+
+    + **Pros**
+
+        A. Customer testimonial's easy to find.  
+        
+        B. Wide range of products on offer with competitive pricing and finance options.
+
+        C. Distinct branding and evidence of company history.   
+
+    + **Cons**
+
+        A. Vast range of products and information on offer can be hard to navigate.  
+
+        B. A personal connection between user and company cannot be developed easily, only evident goal is the sale of products.
+
+        C. The colour pallets used has a wide range, making it hard to find familiarity across the pages for the user. 
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
