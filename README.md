@@ -97,42 +97,29 @@ The secondary goal of the site, is to build a positive relationship between the 
 
     * I decided on a multi-page website because I felt like each section deserved it's own dedicated page.
 
-### Existing Features
+## Existing Features
 
-- __Navigation Bar__
+- **Header Bar**
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+    * Featured on all pages, the full responsive header/navigation bar includes links to the: Home, About, Contact and the three sleep style pages. It is identical on each page to allow for easy navigation.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+    * The header also allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-- __The landing page image__
+-  **The Index Page Image**
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+    * The landing includes a photograph with text overlay to instantly inform the user of the sites purpose
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+- **The Positions Section**
 
-- __Club Ethos Section__
+  * The positions section is designed to educate the user on the different sleep positions, allowing them to identify with their style. 
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  * The heading, designed to look like a button, uses icons to encourage the user to interact with it and learn more about their sleep style.  
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+ - **The Footer** 
 
-- __Meetup Times section__
+    - The footer section includes links to the relevant social media sites for Martin Mattress Co. The links will open to a new tab to allow easy navigation for the user.This is valuable as it encourages them to keep connected via social media.
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+    - The footer is also repsnsive and the same across all pages for uniformity, also containing copyright information.
 
 - __Gallery__
 
