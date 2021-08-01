@@ -138,6 +138,8 @@ The secondary goal of the site, is to build a positive relationship between the 
 
   - Responsive across various device sizes, it encourages the user to scroll by suggesting at information outside of the viewing size.
 
+    ![sleep style image](/assets/images/sleep-style.png)
+
 - **Contact Page**
 
     - The contact page is designed to look like a typical form type you would see on paper, using whitespace to keep it narrow. 
