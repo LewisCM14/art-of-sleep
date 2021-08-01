@@ -3,6 +3,8 @@
 The Art of Sleep is a static front-end site, designed to be a guide to the right mattress firmness based on how the user sleeps. Built on behalf of a fictitious mattress manufacturing company, its primary goal is to educate its users on: different sleeping positions, the health implications of how they sleep and measures that can be taken to improve their health. 
 
 The secondary goal of the site, is to build a positive relationship between the user and the mattress company, encouraging them to sign up for the newsletter and consult the ‘sleep-experts’ at Martin Mattress Co. On the products they offer. 
+
+![readme hero image](/assets/images/readme-hero.png)
 ## User Experience (UX)
 
 - **User Stories**
@@ -200,6 +202,9 @@ The live link can be found here - https://lewiscm14.github.io/art-of-sleep/
 
      6. GitHub.
             * GitHub is used to store the projects code after being pushed from Git.
+            
+    7. Am i Responsive
+            * Used to create hero image for readme.
 
 ## Credits 
 
